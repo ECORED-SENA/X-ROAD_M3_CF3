@@ -29,19 +29,19 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Instalación y Configuración Inicial de X-Road',
+            titulo: 'Instalación y configuración inicial de X-Road',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Configuración del Servidor Central',
+            titulo: 'Configuración del servidor central',
             hash: 't_1_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Configuración del Servidor de Seguridad',
+            titulo: 'Configuración del servidor de seguridad',
             hash: 't_1_4',
           },
         ],
@@ -50,7 +50,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Construcción de Servicios Web: REST Y SOAP',
+        titulo: 'Construcción de servicios web: REST Y SOAP',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -62,7 +62,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Componente lógico: Subarquitectura',
+            titulo: 'Componente lógico: subarquitectura',
             hash: 't_2_2',
           },
         ],
@@ -202,6 +202,26 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'José Ricardo Aponte Oviedo',
+        cargo: 'Experto temático',
+        centro: 'MinTIC',
+      },
+      {
+        nombre: 'Daniel Fernando Portilla Arciniegas',
+        cargo: 'Experto temático',
+        centro: 'MinTIC',
+      },
+      {
+        nombre: 'Sergio Arturo Medina Castillo',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
     ],
     desarrolloProducto: [
       {
@@ -216,25 +236,30 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Eulises Orduz Amezquita'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: [
+          'John Archiniegas',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Wilson Andrés Arenales Caceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Edward Leonardo Pico Cabra',
+        cargo: 'Desarrollo Front-End',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

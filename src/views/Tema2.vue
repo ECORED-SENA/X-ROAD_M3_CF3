@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Construcción de Servicios Web: REST Y SOAP
+      h1 Construcción de servicios web: REST Y SOAP
     img.img-t.img-a(src='@/assets/ilustraciones/img5.svg', alt='')
 
     .titulo-segundo#t_2_1.mt-5
@@ -15,7 +15,7 @@
         img.img-t.img-a(src='@/assets/ilustraciones/img6.svg', alt='')
 
     .titulo-segundo#t_2_2.mt-5
-      .h4 2.2 Componente lógico: Subarquitectura 
+      .h4 2.2 Componente lógico: subarquitectura 
     .row.justify-content-center.align-items-center
       .col-8     
         ImagenInfografica.color-acento-botones.mb-5
