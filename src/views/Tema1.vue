@@ -29,7 +29,7 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p Enlace web.  X-Road Academy. (Falta enlace)
+                p Enlace web.  X-Road Academy.
 
 
     .titulo-segundo#t_1_1.mt-5
