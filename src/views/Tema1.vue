@@ -15,7 +15,7 @@
               img.mt-5(src='@/assets/ilustraciones/img1.svg' alt='AvatarTop')
               .tarjeta.bg-color-terciario
                 .text-white.p-4
-                  p.mt-4 X-Road Academy ofrece capacitación en línea para cualquier persona que desee aprender más sobre la capa de intercambio de datos de X-Road.
+                  p.mt-4 #[b X-Road Academy] ofrece capacitación en línea para cualquier persona que desee aprender más sobre la capa de intercambio de datos de X-Road.
 
           .col-md-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
@@ -25,7 +25,7 @@
                   p.mt-4 #[b Laboratorios oficiales del NIIS] (Nordic Institute for Interoperability Solutions), subtitulados al español.
         .row.justify-content-start.align-items-center.mt-3
           .col-5
-            a.anexo.mb-4.mb-lg-0(href="https://and.gov.co/" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://x-road.thinkific.com/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
